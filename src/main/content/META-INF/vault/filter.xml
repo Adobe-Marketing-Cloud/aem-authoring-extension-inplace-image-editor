@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/wcm/foundation/components/customimage"/>
+    <filter root="/apps/foundation/components/image/cq:design_dialog/content/items/tabs/items/features/items/content/items/accordion/items/orientation/items/zoom"/>
+</workspaceFilter>

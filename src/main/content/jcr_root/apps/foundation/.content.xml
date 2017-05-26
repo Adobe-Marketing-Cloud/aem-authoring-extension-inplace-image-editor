@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured">
+    <components jcr:primaryType="nt:unstructured">
+        <image jcr:primaryType="nt:unstructured">
+            <cq:design_dialog jcr:primaryType="nt:unstructured">
+                <content jcr:primaryType="nt:unstructured">
+                    <items jcr:primaryType="nt:unstructured">
+                        <tabs jcr:primaryType="nt:unstructured">
+                            <items jcr:primaryType="nt:unstructured">
+                                <features jcr:primaryType="nt:unstructured">
+                                    <items jcr:primaryType="nt:unstructured">
+                                        <content jcr:primaryType="nt:unstructured">
+                                            <items jcr:primaryType="nt:unstructured">
+                                                <accordion jcr:primaryType="nt:unstructured">
+                                                    <items jcr:primaryType="nt:unstructured">
+                                                        <orientation jcr:primaryType="nt:unstructured">
+                                                            <items jcr:primaryType="nt:unstructured">
+                                                                <zoom
+                                                                    jcr:primaryType="nt:unstructured"
+                                                                    jcr:title="Zoom"
+                                                                    sling:resourceType="cq/gui/components/authoring/dialog/inplaceediting/configuration/plugin"
+                                                                    features="*"
+                                                                    name="zoom"/>
+                                                            </items>
+                                                        </orientation>
+                                                    </items>
+                                                </accordion>
+                                            </items>
+                                        </content>
+                                    </items>
+                                </features>
+                            </items>
+                        </tabs>
+                    </items>
+                </content>
+            </cq:design_dialog>
+        </image>
+    </components>
+</jcr:root>
